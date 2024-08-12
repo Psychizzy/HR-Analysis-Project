@@ -41,8 +41,7 @@ This project involves a comprehensive analysis of HR data to derive insights int
 Special Projects Involvement: Count of employees involved in special projects; performance comparison.
 
    # Tools Used  
-1. Excel:
-
+ Excel:
 Data Cleaning and Manipulation
 Descriptive Statistics
 Conditional Statements (IF, COUNTIF, SUMIF, AVERAGEIF)
